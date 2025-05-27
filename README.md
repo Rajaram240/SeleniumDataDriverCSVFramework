@@ -71,6 +71,7 @@ src/
 │   ├── config.properties         # Locators and settings
 │   ├── Login.csv                 # Test data
 │   └── extent-config.xml         # Reporting layout (optional)
+
 ✅ How to Run
 Clone the repo.
 
