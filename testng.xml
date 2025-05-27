@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AutomationSuite" parallel="tests" thread-count="1">
+  
+  <!-- Suite-level listener -->
+  <listeners>
+    <listener class-name="utils.SuiteListener"/>
+  </listeners>
+
+  <test name="DataDriverTesting">
+    <parameter name="browser" value="chrome"/> <!-- or firefox / edge -->
+    <classes>
+    <!--  <class name="testCases.LoginPageTest"/>-->
+     <class name="testCases.LoginWithDDT"/>
+    </classes>
+  </test>
+
+</suite>

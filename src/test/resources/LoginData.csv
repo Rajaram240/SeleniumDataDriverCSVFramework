@@ -1,0 +1,4 @@
+Username,Password,ExpectedResult,Status
+mngr623591,agAhEpy,Success,PASS
+mngr83460,qAbUzyj,Failure,FAIL
+mngr623244,ymYnebE,Success,PASS

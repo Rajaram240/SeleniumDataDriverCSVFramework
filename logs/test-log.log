@@ -1,0 +1,266 @@
+2025-05-25 15:24:36 INFO  BaseTest:19 - Entered username
+2025-05-25 15:24:36 INFO  BaseTest:21 - Entered password
+2025-05-25 15:24:37 INFO  BaseTest:26 - Login test passed
+2025-05-25 15:24:39 INFO  BaseTest:41 - Login test passed
+2025-05-25 15:24:39 INFO  BaseTest:48 - Logged Out successfully, Back to login page..
+2025-05-25 16:08:08 INFO  BaseTest:17 - Entered username
+2025-05-25 16:08:08 INFO  BaseTest:19 - Entered password
+2025-05-25 16:08:09 INFO  BaseTest:24 - Login test passed
+2025-05-25 16:08:11 INFO  BaseTest:39 - Login test passed
+2025-05-25 16:08:11 INFO  BaseTest:46 - Logged Out successfully, Back to login page..
+2025-05-25 16:44:27 INFO  BaseTest:17 - Entered username
+2025-05-25 16:44:27 INFO  BaseTest:19 - Entered password
+2025-05-25 16:44:29 INFO  BaseTest:24 - Login test passed
+2025-05-25 16:44:30 INFO  BaseTest:39 - Login test passed
+2025-05-25 16:44:30 INFO  BaseTest:46 - Logged Out successfully, Back to login page..
+2025-05-25 16:45:32 INFO  BaseTest:17 - Entered username
+2025-05-25 16:45:33 INFO  BaseTest:19 - Entered password
+2025-05-25 16:45:36 INFO  BaseTest:24 - Login test passed
+2025-05-25 16:45:38 INFO  BaseTest:39 - Login test passed
+2025-05-25 16:45:38 INFO  BaseTest:46 - Logged Out successfully, Back to login page..
+2025-05-25 17:11:36 INFO  BaseTest:17 - Entered username
+2025-05-25 17:11:36 INFO  BaseTest:19 - Entered password
+2025-05-25 17:11:38 INFO  BaseTest:24 - Login test passed
+2025-05-25 17:11:39 INFO  BaseTest:39 - Login test passed
+2025-05-25 17:11:39 INFO  BaseTest:46 - Logged Out successfully, Back to login page..
+2025-05-25 20:02:37 INFO  BaseTest:29 - user name provided
+2025-05-25 20:02:37 INFO  BaseTest:31 - password provided
+2025-05-25 20:02:40 INFO  BaseTest:44 - Login passed
+2025-05-25 20:05:03 INFO  BaseTest:29 - user name provided
+2025-05-25 20:05:03 INFO  BaseTest:31 - password provided
+2025-05-25 20:05:07 INFO  BaseTest:44 - Login passed
+2025-05-25 20:05:16 INFO  BaseTest:29 - user name provided
+2025-05-25 20:05:17 INFO  BaseTest:31 - password provided
+2025-05-25 20:05:30 INFO  BaseTest:29 - user name provided
+2025-05-25 20:05:30 INFO  BaseTest:31 - password provided
+2025-05-25 20:05:34 INFO  BaseTest:44 - Login passed
+2025-05-25 20:05:45 INFO  BaseTest:29 - user name provided
+2025-05-25 20:05:46 INFO  BaseTest:31 - password provided
+2025-05-25 20:05:50 INFO  BaseTest:44 - Login passed
+2025-05-25 20:06:03 INFO  BaseTest:29 - user name provided
+2025-05-25 20:06:04 INFO  BaseTest:31 - password provided
+2025-05-25 20:07:42 INFO  BaseTest:29 - user name provided
+2025-05-25 20:07:42 INFO  BaseTest:31 - password provided
+2025-05-25 20:07:46 INFO  BaseTest:45 - Login passed
+2025-05-25 20:07:57 INFO  BaseTest:29 - user name provided
+2025-05-25 20:07:57 INFO  BaseTest:31 - password provided
+2025-05-25 20:08:00 WARN  BaseTest:37 - Login failed
+2025-05-25 20:08:06 INFO  BaseTest:29 - user name provided
+2025-05-25 20:08:06 INFO  BaseTest:31 - password provided
+2025-05-25 20:08:10 INFO  BaseTest:45 - Login passed
+2025-05-25 20:08:26 INFO  BaseTest:29 - user name provided
+2025-05-25 20:08:26 INFO  BaseTest:31 - password provided
+2025-05-25 20:08:30 INFO  BaseTest:45 - Login passed
+2025-05-25 20:08:41 INFO  BaseTest:29 - user name provided
+2025-05-25 20:08:41 INFO  BaseTest:31 - password provided
+2025-05-25 20:08:44 WARN  BaseTest:37 - Login failed
+2025-05-25 20:10:11 INFO  BaseTest:29 - user name provided
+2025-05-25 20:10:11 INFO  BaseTest:31 - password provided
+2025-05-25 20:10:14 INFO  BaseTest:44 - Login passed
+2025-05-25 20:10:25 INFO  BaseTest:29 - user name provided
+2025-05-25 20:10:25 INFO  BaseTest:31 - password provided
+2025-05-25 20:10:28 WARN  BaseTest:37 - Login failed
+2025-05-25 20:10:40 INFO  BaseTest:29 - user name provided
+2025-05-25 20:10:40 INFO  BaseTest:31 - password provided
+2025-05-25 20:10:44 INFO  BaseTest:44 - Login passed
+2025-05-25 20:10:54 INFO  BaseTest:29 - user name provided
+2025-05-25 20:10:54 INFO  BaseTest:31 - password provided
+2025-05-25 20:10:58 INFO  BaseTest:44 - Login passed
+2025-05-25 20:11:08 INFO  BaseTest:29 - user name provided
+2025-05-25 20:11:08 INFO  BaseTest:31 - password provided
+2025-05-25 20:11:11 WARN  BaseTest:37 - Login failed
+2025-05-25 20:34:09 INFO  BaseTest:30 - user name provided
+2025-05-25 20:34:09 INFO  BaseTest:32 - password provided
+2025-05-25 20:34:13 INFO  BaseTest:46 - Login passed
+2025-05-25 20:36:58 INFO  BaseTest:30 - user name provided
+2025-05-25 20:36:58 INFO  BaseTest:32 - password provided
+2025-05-25 20:37:01 INFO  BaseTest:46 - Login passed
+2025-05-25 20:41:29 INFO  BaseTest:30 - user name provided
+2025-05-25 20:41:29 INFO  BaseTest:32 - password provided
+2025-05-25 20:41:31 WARN  BaseTest:39 - Login failed
+2025-05-25 20:41:38 INFO  BaseTest:30 - user name provided
+2025-05-25 20:41:38 INFO  BaseTest:32 - password provided
+2025-05-25 20:41:41 WARN  BaseTest:39 - Login failed
+2025-05-25 20:41:47 INFO  BaseTest:30 - user name provided
+2025-05-25 20:41:48 INFO  BaseTest:32 - password provided
+2025-05-25 20:41:50 WARN  BaseTest:39 - Login failed
+2025-05-25 20:41:57 INFO  BaseTest:30 - user name provided
+2025-05-25 20:41:57 INFO  BaseTest:32 - password provided
+2025-05-25 20:41:59 WARN  BaseTest:39 - Login failed
+2025-05-25 20:42:06 INFO  BaseTest:30 - user name provided
+2025-05-25 20:42:06 INFO  BaseTest:32 - password provided
+2025-05-25 20:42:09 WARN  BaseTest:39 - Login failed
+2025-05-25 20:44:06 INFO  BaseTest:30 - user name provided
+2025-05-25 20:44:06 INFO  BaseTest:32 - password provided
+2025-05-25 20:44:10 INFO  BaseTest:46 - Login passed
+2025-05-25 20:44:18 INFO  BaseTest:30 - user name provided
+2025-05-25 20:44:18 INFO  BaseTest:32 - password provided
+2025-05-25 20:44:21 WARN  BaseTest:39 - Login failed
+2025-05-25 20:44:28 INFO  BaseTest:30 - user name provided
+2025-05-25 20:44:28 INFO  BaseTest:32 - password provided
+2025-05-25 20:44:30 INFO  BaseTest:46 - Login passed
+2025-05-25 20:51:20 INFO  BaseTest:31 - user name provided
+2025-05-25 20:51:20 INFO  BaseTest:33 - password provided
+2025-05-25 20:51:23 INFO  BaseTest:48 - Login passed
+2025-05-25 20:52:49 INFO  BaseTest:31 - user name provided
+2025-05-25 20:52:49 INFO  BaseTest:33 - password provided
+2025-05-25 20:52:54 INFO  BaseTest:48 - Login passed
+2025-05-25 20:55:57 INFO  BaseTest:31 - user name provided
+2025-05-25 20:55:58 INFO  BaseTest:33 - password provided
+2025-05-25 20:56:01 INFO  BaseTest:48 - Login passed
+2025-05-25 20:59:17 INFO  BaseTest:31 - user name provided
+2025-05-25 20:59:17 INFO  BaseTest:33 - password provided
+2025-05-25 20:59:20 INFO  BaseTest:53 - Login passed
+2025-05-25 21:02:06 INFO  BaseTest:31 - user name provided
+2025-05-25 21:02:06 INFO  BaseTest:33 - password provided
+2025-05-25 21:02:09 INFO  BaseTest:48 - Login passed
+2025-05-25 21:03:27 INFO  BaseTest:31 - user name provided
+2025-05-25 21:03:27 INFO  BaseTest:33 - password provided
+2025-05-25 21:03:31 INFO  BaseTest:48 - Login passed
+2025-05-25 21:03:41 INFO  BaseTest:31 - user name provided
+2025-05-25 21:03:41 INFO  BaseTest:33 - password provided
+2025-05-25 21:03:44 WARN  BaseTest:40 - Login failed
+2025-05-25 21:03:50 INFO  BaseTest:31 - user name provided
+2025-05-25 21:03:50 INFO  BaseTest:33 - password provided
+2025-05-25 21:03:55 INFO  BaseTest:48 - Login passed
+2025-05-25 21:14:15 INFO  BaseTest:30 - user name provided
+2025-05-25 21:14:16 INFO  BaseTest:32 - password provided
+2025-05-25 21:14:19 INFO  BaseTest:47 - Login passed
+2025-05-25 21:17:47 INFO  BaseTest:30 - user name provided
+2025-05-25 21:17:47 INFO  BaseTest:32 - password provided
+2025-05-25 21:17:50 INFO  BaseTest:47 - Login passed
+2025-05-25 21:18:05 INFO  BaseTest:30 - user name provided
+2025-05-25 21:18:05 INFO  BaseTest:32 - password provided
+2025-05-25 21:18:08 WARN  BaseTest:39 - Login failed
+2025-05-25 21:18:15 INFO  BaseTest:30 - user name provided
+2025-05-25 21:18:15 INFO  BaseTest:32 - password provided
+2025-05-25 21:18:18 INFO  BaseTest:47 - Login passed
+2025-05-25 21:19:13 INFO  BaseTest:30 - user name provided
+2025-05-25 21:19:14 INFO  BaseTest:32 - password provided
+2025-05-25 21:19:17 INFO  BaseTest:47 - Login passed
+2025-05-25 21:48:36 INFO  BaseTest:30 - user name provided
+2025-05-25 21:48:36 INFO  BaseTest:32 - password provided
+2025-05-25 21:48:39 INFO  BaseTest:47 - Login passed
+2025-05-25 21:49:18 INFO  BaseTest:30 - user name provided
+2025-05-25 21:49:18 INFO  BaseTest:32 - password provided
+2025-05-25 21:49:23 INFO  BaseTest:47 - Login passed
+2025-05-27 10:28:17 FATAL BaseTest:30 - FATAL: Failed to load CSV file: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv
+java.io.FileNotFoundException: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at utils.CSVUtils.loadCSV(CSVUtils.java:38)
+	at testCases.LoginWithDDT.setupSuite(LoginWithDDT.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:358)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+2025-05-27 10:28:56 FATAL BaseTest:30 - FATAL: Failed to load CSV file: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv
+java.io.FileNotFoundException: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at utils.CSVUtils.loadCSV(CSVUtils.java:38)
+	at testCases.LoginWithDDT.setupSuite(LoginWithDDT.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:358)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+2025-05-27 10:29:37 FATAL BaseTest:30 - FATAL: Failed to load CSV file: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv
+java.io.FileNotFoundException: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at utils.CSVUtils.loadCSV(CSVUtils.java:38)
+	at testCases.LoginWithDDT.setupSuite(LoginWithDDT.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:358)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+2025-05-27 10:33:08 INFO  BaseTest:28 - CSV file loaded for data operations: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv
+2025-05-27 10:33:14 INFO  BaseTest:72 - Username provided: mngr623591
+2025-05-27 10:33:14 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:33:26 INFO  BaseTest:97 - Login passed for user: mngr623591
+2025-05-27 10:33:28 INFO  BaseTest:122 - Result 'PASS' written for data row index: 0 in CSV memory.
+2025-05-27 10:33:32 INFO  BaseTest:72 - Username provided: mngr83460
+2025-05-27 10:33:32 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:33:33 WARN  BaseTest:82 - Login failed for user: mngr83460 - Alert detected.
+2025-05-27 10:33:34 INFO  BaseTest:122 - Result 'FAIL' written for data row index: 1 in CSV memory.
+2025-05-27 10:33:44 INFO  BaseTest:72 - Username provided: mngr623244
+2025-05-27 10:33:44 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:33:56 INFO  BaseTest:97 - Login passed for user: mngr623244
+2025-05-27 10:33:59 INFO  BaseTest:122 - Result 'PASS' written for data row index: 2 in CSV memory.
+2025-05-27 10:34:00 INFO  BaseTest:140 - CSV file operations completed and file closed.
+2025-05-27 10:36:37 INFO  BaseTest:28 - CSV file loaded for data operations: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv
+2025-05-27 10:36:43 INFO  BaseTest:72 - Username provided: mngr623591
+2025-05-27 10:36:43 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:36:55 INFO  BaseTest:97 - Login passed for user: mngr623591
+2025-05-27 10:36:57 INFO  BaseTest:122 - Result 'PASS' written for data row index: 0 in CSV memory.
+2025-05-27 10:37:01 INFO  BaseTest:72 - Username provided: mngr83460
+2025-05-27 10:37:01 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:37:02 WARN  BaseTest:82 - Login failed for user: mngr83460 - Alert detected.
+2025-05-27 10:37:04 INFO  BaseTest:122 - Result 'FAIL' written for data row index: 1 in CSV memory.
+2025-05-27 10:37:12 INFO  BaseTest:72 - Username provided: mngr623244
+2025-05-27 10:37:12 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:37:26 INFO  BaseTest:97 - Login passed for user: mngr623244
+2025-05-27 10:37:28 INFO  BaseTest:122 - Result 'PASS' written for data row index: 2 in CSV memory.
+2025-05-27 10:37:29 INFO  BaseTest:140 - CSV file operations completed and file closed.
+2025-05-27 10:38:27 INFO  BaseTest:28 - CSV file loaded for data operations: C:\Users\DELL\eclipse_2024-12\SeleniumTestNGFramework\src\test\resources\LoginData.csv
+2025-05-27 10:38:36 INFO  BaseTest:72 - Username provided: mngr623591
+2025-05-27 10:38:36 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:38:49 INFO  BaseTest:97 - Login passed for user: mngr623591
+2025-05-27 10:38:51 INFO  BaseTest:122 - Result 'PASS' written for data row index: 0 in CSV memory.
+2025-05-27 10:39:00 INFO  BaseTest:72 - Username provided: mngr83460
+2025-05-27 10:39:00 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:39:01 WARN  BaseTest:82 - Login failed for user: mngr83460 - Alert detected.
+2025-05-27 10:39:02 INFO  BaseTest:122 - Result 'FAIL' written for data row index: 1 in CSV memory.
+2025-05-27 10:39:07 INFO  BaseTest:72 - Username provided: mngr623244
+2025-05-27 10:39:07 INFO  BaseTest:74 - Password provided.
+2025-05-27 10:39:18 INFO  BaseTest:97 - Login passed for user: mngr623244
+2025-05-27 10:39:21 INFO  BaseTest:122 - Result 'PASS' written for data row index: 2 in CSV memory.
+2025-05-27 10:39:22 INFO  BaseTest:140 - CSV file operations completed and file closed.
